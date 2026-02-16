@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Evergreen",
+  "base_artist": "ｓａｊｏｕ　ｎｏ　ｈａｎａ",
+  "createdAt": "2026-02-16T17:37:53.671253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Evergreen 143",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/01_Evergreen_143_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/02_Evergreen_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/03_Evergreen_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/04_Evergreen_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/05_Evergreen_Broods.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "RAIGN",
+      "has_synced": true,
+      "path": "select/06_Evergreen_RAIGN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To an Evergreen",
+      "artist": "Engineers",
+      "has_synced": false,
+      "path": "select/07_To_an_Evergreen_Engineers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "The Fiery Furnaces",
+      "has_synced": true,
+      "path": "select/08_Evergreen_The_Fiery_Furnaces.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/09_Evergreen_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Evergreen",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/10_Evergreen_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You're My Evergreen",
+      "artist": "Feeder",
+      "has_synced": false,
+      "path": "select/11_You're_My_Evergreen_Feeder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Still Evergreen",
+      "artist": "Voodoo Hill",
+      "has_synced": false,
+      "path": "select/12_Still_Evergreen_Voodoo_Hill.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "EVERGREEN [DIST.]",
+      "artist": "Hyde",
+      "has_synced": true,
+      "path": "select/13_EVERGREEN_[DIST.]_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "evergreen",
+      "artist": "Hyde",
+      "has_synced": true,
+      "path": "select/14_evergreen_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Evergreen (Love Theme from \"A Star Is Born\") - Live",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/15_Evergreen_(Love_Theme_from__A_Star_Is_Born_)_-_Live_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/16_Evergreen_(Love_Theme_from,__A_Star_Is_Born_)_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kyou Kara Omoide (Evergreen ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/17_Kyou_Kara_Omoide_(Evergreen_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Evergreen",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/pl_01_Evergreen_sajou_no_hana.txt"
+    }
+  ]
+}
